@@ -8,8 +8,8 @@ The dataset and models have been released. [Data&Model]( https://pan.baidu.com/s
 ~~~
 dataset/
 ├── train
-│   ├── images
-│   └── labels
+    ├── images
+    └── labels
 └── val
     ├── images
     └── labels
