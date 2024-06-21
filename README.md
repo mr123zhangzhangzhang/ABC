@@ -1,9 +1,6 @@
 # HRA-yolo
 # Download
-The code and dataset have been released. [Data&Model]( https://pan.baidu.com/s/1cJyvD7t9hc5ZxwwR7DAO7A?pwd=6ies)
-- The experiments utilize the unmanned vessel perspective inland water floating debris data  set released by Orcauboat.
-
-
+The model code has been released (in the above code file) and the dataset has been released.[Dataset](https://pan.baidu.com/s/1VSxQOqDQ_VQtzpHywXc8PA?pwd=mfmc)
 ### Dataset Directory Structure
 ~~~
 dataset/
